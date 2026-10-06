@@ -4,7 +4,7 @@ import { profile, stats } from "../data";
 import Hand from "./Hand";
 
 export const waLink = () =>
-  `https://mail.google.com/mail/?view=cm&fs=1&to=workwithronakk@gmail.com`;
+  `mailto:workwithronakk@gmail.com`;
 
 export default function Hero() {
   const [imgOk, setImgOk] = useState(true);
