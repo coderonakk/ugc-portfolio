@@ -44,43 +44,36 @@ export const videos = [
   }, ,
   {
     id: 2,
-    views: "500K views",
-    note: "",
     src: "https://res.cloudinary.com/rbdpzww9/video/upload/q_auto,w_720/VID_20261002_223744_217_bsl.mp4",
     poster: "https://res.cloudinary.com/rbdpzww9/video/upload/so_0,w_480,q_auto/VID_20261002_223744_217_bsl.jpg",
   },
   {
-    id: 4,
-    views: "Parakeet AI",
+    id: 3,
     src: "https://res.cloudinary.com/rbdpzww9/video/upload/q_auto,w_720/v1791261527/VID_20261002_022634_777_bsl.mp4",
     poster: "https://res.cloudinary.com/rbdpzww9/video/upload/so_0,w_480,q_auto/v1791261527/VID_20261002_022634_777_bsl.jpg",
-
-
   },
   {
-    id: 5,
-    views: "MegaSheet",
+    id: 4,
     src: "https://res.cloudinary.com/rbdpzww9/video/upload/q_auto,w_720/v1791113870/VID_20261004_043722_002_bsl.mp4",
     poster: "https://res.cloudinary.com/rbdpzww9/video/upload/so_0,w_480,q_auto/v1791113870/VID_20261004_043722_002_bsl.jpg",
   },
   {
-    id: 6,
-    views: "Parakeet AI",
+    id: 5,
     src: "https://res.cloudinary.com/rbdpzww9/video/upload/q_auto,w_720/v1791260903/I_found_a_Crazy_trick____partnerparakeetai__jobsearch__interviewprep__interviewtips__fyppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp.mp4",
     poster: "https://res.cloudinary.com/rbdpzww9/video/upload/so_0,w_480,q_auto/v1791260903/I_found_a_Crazy_trick____partnerparakeetai__jobsearch__interviewprep__interviewtips__fyppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp.jpg",
   },
   {
-    id: 7,
+    id: 6,
     src: "https://res.cloudinary.com/rbdpzww9/video/upload/q_auto,w_720/v1791260913/Deleting_soon____partnerastraai__exams__fyp__chatgpt__studytips_MP4.mp4",
     poster: "https://res.cloudinary.com/rbdpzww9/video/upload/so_0,w_480,q_auto/v1791260913/Deleting_soon____partnerastraai__exams__fyp__chatgpt__studytips_MP4.jpg",
   },
   {
-    id: 8,
+    id: 7,
     src: "https://res.cloudinary.com/rbdpzww9/video/upload/q_auto,w_720/v1791261076/Deleting_soon____partnerparakeetai__jobsearch__fypppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp__chatgpt__jobsearch_MP4.mp4",
     poster: "https://res.cloudinary.com/rbdpzww9/video/upload/so_0,w_480,q_auto/v1791261076/Deleting_soon____partnerparakeetai__jobsearch__fypppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp__chatgpt__jobsearch_MP4.jpg",
   },
   {
-    id: 9,
+    id: 8,
     src: "https://res.cloudinary.com/rbdpzww9/video/upload/q_auto,w_720/v1791112529/Bro_this_is_crazy____partnerastraai__exams__studytips__chatgpt__examprep_MP4.mp4",
     poster: "https://res.cloudinary.com/rbdpzww9/video/upload/so_0,w_480,q_auto/v1791112529/Bro_this_is_crazy____partnerastraai__exams__studytips__chatgpt__examprep_MP4.jpg",
   },
