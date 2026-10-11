@@ -39,11 +39,9 @@ export const experience = [
 export const videos = [
   {
     id: 1,
-    views: "800K views",
-    note: "",
-    src: "https://res.cloudinary.com/rbdpzww9/video/upload/q_auto,w_720/Time_for_Comeback____partnerastraai__studytips__exams__collage__examprep_MP4.mp4",
-    poster: "https://res.cloudinary.com/rbdpzww9/video/upload/so_0,w_480,q_auto/Time_for_Comeback____partnerastraai__studytips__exams__collage__examprep_MP4.jpg",
-  },
+    src: "https://res.cloudinary.com/rbdpzww9/video/upload/q_auto,w_720/v1791693439/Hack_your_Exams____studytips__fyp__chatgpt__exam__collage_MP4.mp4",
+    poster: "https://res.cloudinary.com/rbdpzww9/video/upload/so_0,w_480,q_auto/v1791693439/Hack_your_Exams____studytips__fyp__chatgpt__exam__collage_MP4.jpg",
+  }, ,
   {
     id: 2,
     views: "500K views",
@@ -83,14 +81,10 @@ export const videos = [
   },
   {
     id: 9,
-   src: "https://res.cloudinary.com/rbdpzww9/video/upload/q_auto,w_720/v1791112529/Bro_this_is_crazy____partnerastraai__exams__studytips__chatgpt__examprep_MP4.mp4",
+    src: "https://res.cloudinary.com/rbdpzww9/video/upload/q_auto,w_720/v1791112529/Bro_this_is_crazy____partnerastraai__exams__studytips__chatgpt__examprep_MP4.mp4",
     poster: "https://res.cloudinary.com/rbdpzww9/video/upload/so_0,w_480,q_auto/v1791112529/Bro_this_is_crazy____partnerastraai__exams__studytips__chatgpt__examprep_MP4.jpg",
   },
-  {
-  id: 10,
-  src: "https://res.cloudinary.com/rbdpzww9/video/upload/q_auto,w_720/v1791693439/Hack_your_Exams____studytips__fyp__chatgpt__exam__collage_MP4.mp4",
-  poster: "https://res.cloudinary.com/rbdpzww9/video/upload/so_0,w_480,q_auto/v1791693439/Hack_your_Exams____studytips__fyp__chatgpt__exam__collage_MP4.jpg",
-},
+
 
 ];
 
