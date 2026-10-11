@@ -7,7 +7,7 @@ export const profile = {
   role: "UGC Creator",
   tagline: "I make content people",
   taglineHand: "actually watch.", // shows in yellow handwriting
-  bio: "2.5M+ views in under a month. Scroll-stopping UGC for brands that want real attention, not just polished ads.",
+  bio: "4M+ views in under a month. Scroll-stopping UGC for brands that want real attention, not just polished ads.",
   photo: "https://res.cloudinary.com/rbdpzww9/image/upload/v1791261866/file_00000000bcdc821188659d1c9b531e20.png", // put your photo in the /public folder
   handle: "@techwithronak65",
   instagram: "https://instagram.com/techwithronak65",
@@ -15,7 +15,7 @@ export const profile = {
 };
 
 export const stats = [
-  { value: "2.5M+", label: "Views" },
+  { value: "4M+", label: "Views" },
   { value: "10+", label: "Brands" },
   { value: "100+", label: "Videos" },
 ];
