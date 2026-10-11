@@ -26,6 +26,7 @@ export const stats = [
 // link: optional. Makes the row clickable.
 export const experience = [
   { brand: "ASTRA AI", category: "Study", logo: "", link: "https://astra-ai.co/" },
+  { brand: "Tarko AI", category: "Study", logo: "", link: "https://www.tarko-ai.com/`" },
   { brand: "PARAKEET AI", category: "Interview prep", logo: "", link: "https://www.parakeet-ai.com/" },
   { brand: "KISMO", category: "Astrology", logo: "", link: "https://www.kismo.app/" },
   { brand: "PURE", category: "Lifestyle", logo: "", link: "https://pure.app/" },
@@ -85,6 +86,12 @@ export const videos = [
    src: "https://res.cloudinary.com/rbdpzww9/video/upload/q_auto,w_720/v1791112529/Bro_this_is_crazy____partnerastraai__exams__studytips__chatgpt__examprep_MP4.mp4",
     poster: "https://res.cloudinary.com/rbdpzww9/video/upload/so_0,w_480,q_auto/v1791112529/Bro_this_is_crazy____partnerastraai__exams__studytips__chatgpt__examprep_MP4.jpg",
   },
+  {
+  id: 10,
+  src: "https://res.cloudinary.com/rbdpzww9/video/upload/q_auto,w_720/v1791693439/Hack_your_Exams____studytips__fyp__chatgpt__exam__collage_MP4.mp4",
+  poster: "https://res.cloudinary.com/rbdpzww9/video/upload/so_0,w_480,q_auto/v1791693439/Hack_your_Exams____studytips__fyp__chatgpt__exam__collage_MP4.jpg",
+},
+
 ];
 
 export const services = [
