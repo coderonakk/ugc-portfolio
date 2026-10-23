@@ -7,7 +7,7 @@ export const profile = {
   role: "UGC Creator",
   tagline: "I make content people",
   taglineHand: "actually watch.", // shows in yellow handwriting
-  bio: "4M+ views in under a month. Scroll-stopping UGC for brands that want real attention, not just polished ads.",
+  bio: "8M+ views in under a month. Scroll-stopping UGC for brands that want real attention, not just polished ads.",
   photo: "https://res.cloudinary.com/rbdpzww9/image/upload/v1791261866/file_00000000bcdc821188659d1c9b531e20.png", // put your photo in the /public folder
   handle: "@techwithronak65",
   instagram: "https://instagram.com/techwithronak65",
@@ -15,7 +15,7 @@ export const profile = {
 };
 
 export const stats = [
-  { value: "4M+", label: "Views" },
+  { value: "8M+", label: "Views" },
   { value: "10+", label: "Brands" },
   { value: "100+", label: "Videos" },
 ];
@@ -30,6 +30,7 @@ export const experience = [
   { brand: "PARAKEET AI", category: "Interview prep", logo: "", link: "https://www.parakeet-ai.com/" },
   { brand: "KISMO", category: "Astrology", logo: "", link: "https://www.kismo.app/" },
   { brand: "PURE", category: "Lifestyle", logo: "", link: "https://pure.app/" },
+  { brand: "LockedInAI", category: "interview prep", logo: "", link: "https://pure.app/" },
   { brand: "Viral Fission", category: "Lifestyle", logo: "", link: "https://www.viralfission.com/" },
 ];
 
@@ -60,7 +61,7 @@ export const videos = [
   {
     id: 5,
     src: "https://res.cloudinary.com/rbdpzww9/video/upload/q_auto,w_720/v1791260903/I_found_a_Crazy_trick____partnerparakeetai__jobsearch__interviewprep__interviewtips__fyppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp.mp4",
-    poster: "https://res.cloudinary.com/rbdpzww9/video/upload/so_0,w_480,q_auto/v1791260903/I_found_a_Crazy_trick____partnerparakeetai__jobsearch__interviewprep__interviewtips__fyppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp.jpg",
+    poster: "https://res.cloudinary.com/rbdpzww9/video/upload/so_0,w_480,q_auto/v1791260  903/I_found_a_Crazy_trick____partnerparakeetai__jobsearch__interviewprep__interviewtips__fyppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppppp.jpg",
   },
   {
     id: 6,
